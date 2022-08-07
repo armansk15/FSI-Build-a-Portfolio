@@ -1,0 +1,22 @@
+body {
+  background-color: #e8f9fd;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 40%;
+}
+
+h1,
+h2,
+h3 {
+  color: #66bfbf;
+}
+
+/* CLASS SELECTORS */
+.profile-picture {
+  border-radius: 50%;
+}
