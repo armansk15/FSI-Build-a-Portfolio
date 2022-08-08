@@ -1,5 +1,7 @@
 body {
   background-color: #e8f9fd;
+  font-family: "Cairo", sans-serif;
+  text-align: center;
 }
 
 hr {
@@ -7,7 +9,7 @@ hr {
   border-top-style: dotted;
   border-color: grey;
   border-width: 10px;
-  width: 40%;
+  width: 25%;
 }
 
 h1,
@@ -19,4 +21,8 @@ h3 {
 /* CLASS SELECTORS */
 .profile-picture {
   border-radius: 50%;
+}
+
+.project {
+  text-align: left;
 }
